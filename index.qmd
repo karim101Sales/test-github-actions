@@ -2,7 +2,7 @@
 title: "test-github-actions"
 ---
 
-This is a Quarto website.
+some edite after editting the publish action to master instead of main and with no re-render on my side
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
