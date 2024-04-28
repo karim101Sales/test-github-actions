@@ -1,0 +1,23 @@
+---
+title: Quarto Blog
+subtitle: News, tips, and commentary about all things Quarto
+listing:
+  sort: "date desc"
+  contents: "posts/*/index.qmd"
+  sort-ui: true
+  filter-ui: true
+  categories: true
+  feed: false
+page-layout: full
+# margin-header: signup.html
+# margin-header: |
+#   # feasured 
+#   - asfsdf
+#   - asdfasdf
+#   - asgsg
+
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
+search: true
+image: AI.png
+---

@@ -5,9 +5,12 @@ website:
   title: "test-github-actions"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Writings"
+        href: data/writings/index.qmd
+      - text: "About"
+        href: about.qmd
+
+
   
   page-footer:
     left: |
